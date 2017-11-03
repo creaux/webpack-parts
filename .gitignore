@@ -1,0 +1,11 @@
+node_modules
+package-lock.json
+.idea
+*.log
+build
+storybook-static
+*.log.*
+.npmrc
+*.iml
+.DS_Store
+_book
